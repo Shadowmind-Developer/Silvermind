@@ -1,4 +1,5 @@
 @echo off
+
 mode 26,5
 set attack=0
 title Bot #%botnumber%
