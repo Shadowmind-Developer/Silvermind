@@ -14,26 +14,26 @@ echo                             HH  HH   AA   AA   CC     KK KK   ~       II   
 echo                             HH  HH   AA   AA   CCCC   KK  KK         IIII     TTTT
 echo.
 echo.
-echo                                              °°°°°°°°°°°°°°°°°°°
-echo                                              °° HACK~IT v 1.3 °°
-echo                                              °° by Shadowmind °°
-echo                                              °°°°°°°°°°°°°°°°°°°
+echo                                              Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
+echo                                              Â°Â° HACK~IT v 1.3 Â°Â°
+echo                                              Â°Â° by Shadowmind Â°Â°
+echo                                              Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
 echo.
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
-echo                       °° Encrypt [E] °°       °° Scanner [S] °°       °° Advanced[A] °°
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
+echo                       Â°Â° Encrypt [E] Â°Â°       Â°Â° Scanner [S] Â°Â°       Â°Â° Advanced[A] Â°Â°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
 echo.
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
-echo                       °° Coder   [C] °°       °° Key-Gen [K] °°       °° Plug-ins[P] °°
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
+echo                       Â°Â° Coder   [C] Â°Â°       Â°Â° Key-Gen [K] Â°Â°       Â°Â° Plug-ins[P] Â°Â°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
 echo.
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
-echo                       °° DataCode[D] °°       °° Net-Tool[N] °°       °° Options [O] °°
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
+echo                       Â°Â° DataCode[D] Â°Â°       Â°Â° Net-Tool[N] Â°Â°       Â°Â° Options [O] Â°Â°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
 echo.
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
-echo                       °° IP-Text [I] °°       °° Botflow [B] °°       °° Exit    [X] °°
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
+echo                       Â°Â° IP-Text [I] Â°Â°       Â°Â° Botflow [B] Â°Â°       Â°Â° Exit    [X] Â°Â°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
 echo.
 choice /n /c ECDASKNPOIBX
 if errorlevel 12 exit
@@ -59,17 +59,17 @@ echo                             HH  HH   AA   AA   CC     KK KK   ~       II   
 echo                             HH  HH   AA   AA   CCCC   KK  KK         IIII     TTTT
 echo.
 echo.
-echo                                              °°°°°°°°°°°°°°°°°°°
-echo                                              °°    OPTIONS    °°
-echo                                              °°°°°°°°°°°°°°°°°°°
+echo                                              Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
+echo                                              Â°Â°    OPTIONS    Â°Â°
+echo                                              Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
 echo.
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
-echo                       °° UI-Color[C] °°       °° Guider  [G] °°       °° System  [S] °°
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
+echo                       Â°Â° UI-Color[C] Â°Â°       Â°Â° Guider  [G] Â°Â°       Â°Â° System  [S] Â°Â°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
 echo.
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
-echo                       °°             °°       °°             °°       °° Exit    [X] °°
-echo                       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°       °°°°°°°°°°°°°°°°°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
+echo                       Â°Â°             Â°Â°       Â°Â°             Â°Â°       Â°Â° Exit    [X] Â°Â°
+echo                       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°       Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°
 echo.
 choice /n /c CGSX
 if errorlevel 4 goto start
@@ -105,19 +105,19 @@ goto start
 cls
 echo.
 echo.
-echo -----------------------°Programminfos°-----------------------
+echo -----------------------Â°ProgramminfosÂ°-----------------------
 echo.
 echo Filename:				HACK~IT.bat
 echo.
-echo Version:				Build 1.3(.0c)
+echo Version:				Build 1.3(.1a)
 echo.
 echo Status:					Build in Progress (Stable)
 echo.
 echo Projekt-Codename:			Silvermind
 echo.
-echo Pluginunterstützung:			Vorhanden
+echo PluginunterstÃ¼tzung:			Vorhanden
 echo.
-echo -------------------------°Features°--------------------------
+echo -------------------------Â°FeaturesÂ°--------------------------
 echo.
 echo Coder:					Crypt Messages
 echo.
@@ -166,7 +166,7 @@ echo System:					Show this information
 echo.
 echo Custom UI:				Change Hack~it colors
 echo.
-echo --------------------------°Others°---------------------------
+echo --------------------------Â°OthersÂ°---------------------------
 echo.
 echo Credits:				Shadowmind (www.instagramm.com/shadowmind_developer/)
 echo.
@@ -183,8 +183,8 @@ echo.
 echo.
 echo.
 echo.
-echo                                  °° CODER v 0.1 °°
-echo                                  °°by Shadowmind°°
+echo                                  Â°Â° CODER v 0.1 Â°Â°
+echo                                  Â°Â°by ShadowmindÂ°Â°
 echo.
 echo.
 echo.
@@ -198,81 +198,81 @@ timeout /t 1 /NOBREAK >nul
 set a=%Message%
 
 
-set "a=%a: =ñ%"
-set "a=%a:.=%"
+set "a=%a: =Ã±%"
+set "a=%a:.=Å¾%"
 
 
-set a=%a:er=æ%
-set a=%a:en=ç%
-set a=%a:ch=è%
-set a=%a:de=é%
-set a=%a:ei=ê%
-set a=%a:nd=ÿ%
-set a=%a:te=ì%
-set a=%a:in=í%
-set a=%a:ie=î%
-set a=%a:ge=ï%
-set a=%a:ss=ğ%
-set a=%a:nn=Ÿ%
-set a=%a:ll=ò%
-set a=%a:ee=ù%
-set a=%a:mm=ô%
-set a=%a:tt=õ%
-set a=%a:rr=ë%
-set a=%a:dd=ó%
-set a=%a:tt=ú%
-set a=%a:aa=û%
-set a=%a:ich=ı%
-set a=%a:ein=ş%
-set a=%a:und=ø%
-set a=%a:der=¢%
-set a=%a:nde=¤%
-set a=%a:sch=²%
-set a=%a:die=³%
-set a=%a:den=›%
-set a=%a:end=‹%
-set a=%a:cht=´%
+set a=%a:er=Ã¦%
+set a=%a:en=Ã§%
+set a=%a:ch=Ã¨%
+set a=%a:de=Ã©%
+set a=%a:ei=Ãª%
+set a=%a:nd=Ã¿%
+set a=%a:te=Ã¬%
+set a=%a:in=Ã­%
+set a=%a:ie=Ã®%
+set a=%a:ge=Ã¯%
+set a=%a:ss=Ã°%
+set a=%a:nn=Å¸%
+set a=%a:ll=Ã²%
+set a=%a:ee=Ã¹%
+set a=%a:mm=Ã´%
+set a=%a:tt=Ãµ%
+set a=%a:rr=Ã«%
+set a=%a:dd=Ã³%
+set a=%a:tt=Ãº%
+set a=%a:aa=Ã»%
+set a=%a:ich=Ã½%
+set a=%a:ein=Ã¾%
+set a=%a:und=Ã¸%
+set a=%a:der=Â¢%
+set a=%a:nde=Â¤%
+set a=%a:sch=Â²%
+set a=%a:die=Â³%
+set a=%a:den=â€º%
+set a=%a:end=â€¹%
+set a=%a:cht=Â´%
 
 
-set a=%a:a=Ô%
-set a=%a:b=Õ%
-set a=%a:c=‡%
-set a=%a:d=Ç%
-set a=%a:e=À%
-set a=%a:f=Ì%
-set a=%a:g=Æ%
-set a=%a:h=¦%
-set a=%a:i=È%
-set a=%a:j=É%
-set a=%a:k=Ò%
-set a=%a:l=Ó%
-set a=%a:m=Ğ%
-set a=%a:n=•%
+set a=%a:a=Ã”%
+set a=%a:b=Ã•%
+set a=%a:c=â€¡%
+set a=%a:d=Ã‡%
+set a=%a:e=Ã€%
+set a=%a:f=ÃŒ%
+set a=%a:g=Ã†%
+set a=%a:h=Â¦%
+set a=%a:i=Ãˆ%
+set a=%a:j=Ã‰%
+set a=%a:k=Ã’%
+set a=%a:l=Ã“%
+set a=%a:m=Ã%
+set a=%a:n=â€¢%
 set a=%a:o=$%
-set a=%a:p=Ë%
-set a=%a:q=Ñ%
-set a=%a:r=µ%
-set a=%a:s=Á%
-set a=%a:t=Î%
+set a=%a:p=Ã‹%
+set a=%a:q=Ã‘%
+set a=%a:r=Âµ%
+set a=%a:s=Ã%
+set a=%a:t=Ã%
 set a=%a:u=`%
-set a=%a:v=Ï%
-set a=%a:w=Ã%
-set a=%a:x=Í%
-set a=%a:y=Ê%
-set a=%a:z=Å%
-set a=%a:ß=Ø%
+set a=%a:v=Ã%
+set a=%a:w=Ãƒ%
+set a=%a:x=Ã%
+set a=%a:y=ÃŠ%
+set a=%a:z=Ã…%
+set a=%a:ÃŸ=Ã˜%
 
 
-set a=%a:1=Ù%
-set a=%a:2=Ú%
-set a=%a:3=Û%
-set a=%a:4=İ%
-set a=%a:5=Ş%
-set a=%a:6=à%
-set a=%a:7=á%
-set a=%a:8=â%
-set a=%a:9=ã%
-set a=%a:0=å%
+set a=%a:1=Ã™%
+set a=%a:2=Ãš%
+set a=%a:3=Ã›%
+set a=%a:4=Ã%
+set a=%a:5=Ã%
+set a=%a:6=Ã %
+set a=%a:7=Ã¡%
+set a=%a:8=Ã¢%
+set a=%a:9=Ã£%
+set a=%a:0=Ã¥%
 
 
 cls
@@ -300,8 +300,8 @@ echo.
 echo.
 echo.
 echo.
-echo                                  °° ENCRYPTER v 0.1 °°
-echo                                  °°  by Shadowmind  °°
+echo                                  Â°Â° ENCRYPTER v 0.1 Â°Â°
+echo                                  Â°Â°  by Shadowmind  Â°Â°
 echo.
 echo.
 echo.
@@ -313,78 +313,78 @@ FOR /f "usebackq delims=" %%f IN (%Data%) DO (
 set "a=%%f"
 
 echo "!a!"
-set "a=!a:ñ= !"
-set "a=!a:=.!"
+set "a=!a:Ã±= !"
+set "a=!a:Å¾=.!"
 
-set a=!a:æ=er!
-set a=!a:ç=en!
-set a=!a:è=ch!
-set a=!a:é=de!
-set a=!a:ê=ei!
-set a=!a:ÿ=nd!
-set a=!a:ì=te!
-set a=!a:í=in!
-set a=!a:î=ie!
-set a=!a:ï=ge!
-set a=!a:ğ=ss!
-set a=!a:Ÿ=nn!
-set a=!a:ò=ll!
-set a=!a:ù=ee!
-set a=!a:ô=mm!
-set a=!a:õ=tt!
-set a=!a:ë=rr!
-set a=!a:ó=dd!
-set a=!a:ú=ff!
-set a=!a:û=aa!
-set a=!a:ı=ich!
-set a=!a:ş=ein!
-set a=!a:ø=und!
-set a=!a:¢=der!
-set a=!a:¤=nde!
-set a=!a:²=sch!
-set a=!a:³=die!
-set a=!a:›=den!
-set a=!a:‹=end!
-set a=!a:´=cht!
+set a=!a:Ã¦=er!
+set a=!a:Ã§=en!
+set a=!a:Ã¨=ch!
+set a=!a:Ã©=de!
+set a=!a:Ãª=ei!
+set a=!a:Ã¿=nd!
+set a=!a:Ã¬=te!
+set a=!a:Ã­=in!
+set a=!a:Ã®=ie!
+set a=!a:Ã¯=ge!
+set a=!a:Ã°=ss!
+set a=!a:Å¸=nn!
+set a=!a:Ã²=ll!
+set a=!a:Ã¹=ee!
+set a=!a:Ã´=mm!
+set a=!a:Ãµ=tt!
+set a=!a:Ã«=rr!
+set a=!a:Ã³=dd!
+set a=!a:Ãº=ff!
+set a=!a:Ã»=aa!
+set a=!a:Ã½=ich!
+set a=!a:Ã¾=ein!
+set a=!a:Ã¸=und!
+set a=!a:Â¢=der!
+set a=!a:Â¤=nde!
+set a=!a:Â²=sch!
+set a=!a:Â³=die!
+set a=!a:â€º=den!
+set a=!a:â€¹=end!
+set a=!a:Â´=cht!
 
-set a=!a:Ô=a!
-set a=!a:Õ=b!
-set a=!a:‡=c!
-set a=!a:Ç=d!
-set a=!a:À=e!
-set a=!a:Ì=f!
-set a=!a:Æ=g!
-set a=!a:¦=h!
-set a=!a:È=i!
-set a=!a:É=j!
-set a=!a:Ò=k!
-set a=!a:Ó=l!
-set a=!a:Ğ=m!
-set a=!a:•=n!
+set a=!a:Ã”=a!
+set a=!a:Ã•=b!
+set a=!a:â€¡=c!
+set a=!a:Ã‡=d!
+set a=!a:Ã€=e!
+set a=!a:ÃŒ=f!
+set a=!a:Ã†=g!
+set a=!a:Â¦=h!
+set a=!a:Ãˆ=i!
+set a=!a:Ã‰=j!
+set a=!a:Ã’=k!
+set a=!a:Ã“=l!
+set a=!a:Ã=m!
+set a=!a:â€¢=n!
 set a=!a:$=o!
-set a=!a:Ë=p!
-set a=!a:Ñ=q!
-set a=!a:µ=r!
-set a=!a:Á=s!
-set a=!a:Î=t!
+set a=!a:Ã‹=p!
+set a=!a:Ã‘=q!
+set a=!a:Âµ=r!
+set a=!a:Ã=s!
+set a=!a:Ã=t!
 set a=!a:`=u!
-set a=!a:Ï=v!
-set a=!a:Ã=w!
-set a=!a:Í=x!
-set a=!a:Ê=y!
-set a=!a:Å=z!
-set a=!a:Ø=ß!
+set a=!a:Ã=v!
+set a=!a:Ãƒ=w!
+set a=!a:Ã=x!
+set a=!a:ÃŠ=y!
+set a=!a:Ã…=z!
+set a=!a:Ã˜=ÃŸ!
 
-set a=!a:Ù=1!
-set a=!a:Ú=2!
-set a=!a:Û=3!
-set a=!a:İ=4!
-set a=!a:Ş=5!
-set a=!a:à=6!
-set a=!a:á=7!
-set a=!a:â=8!
-set a=!a:ã=9!
-set a=!a:å=0!
+set a=!a:Ã™=1!
+set a=!a:Ãš=2!
+set a=!a:Ã›=3!
+set a=!a:Ã=4!
+set a=!a:Ã=5!
+set a=!a:Ã =6!
+set a=!a:Ã¡=7!
+set a=!a:Ã¢=8!
+set a=!a:Ã£=9!
+set a=!a:Ã¥=0!
 
 echo !a!>>%Data%Encrypt.NeT
 )
@@ -403,8 +403,8 @@ echo.
 echo.
 echo.
 echo.
-echo                                  °° DATACODER v 0.1 °°
-echo                                  °°  by Shadowmind  °°
+echo                                  Â°Â° DATACODER v 0.1 Â°Â°
+echo                                  Â°Â°  by Shadowmind  Â°Â°
 echo.
 echo.
 echo.
@@ -420,81 +420,81 @@ set "a=%%f"
 
 
 echo !a!
-set "a=!a: =ñ!"
-set "a=!a:.=!"
+set "a=!a: =Ã±!"
+set "a=!a:.=Å¾!"
 
 
-set a=!a:er=æ!
-set a=!a:en=ç!
-set a=!a:ch=è!
-set a=!a:de=é!
-set a=!a:ei=ê!
-set a=!a:nd=ÿ!
-set a=!a:te=ì!
-set a=!a:in=í!
-set a=!a:ie=î!
-set a=!a:ge=ï!
-set a=!a:ss=ğ!
-set a=!a:nn=Ÿ!
-set a=!a:ll=ò!
-set a=!a:ee=ù!
-set a=!a:mm=ô!
-set a=!a:tt=õ!
-set a=!a:rr=ë!
-set a=!a:dd=ó!
-set a=!a:tt=ú!
-set a=!a:aa=û!
-set a=!a:ich=ı!
-set a=!a:ein=ş!
-set a=!a:und=ø!
-set a=!a:der=¢!
-set a=!a:nde=¤!
-set a=!a:sch=²!
-set a=!a:die=³!
-set a=!a:den=›!
-set a=!a:end=‹!
-set a=!a:cht=´!
+set a=!a:er=Ã¦!
+set a=!a:en=Ã§!
+set a=!a:ch=Ã¨!
+set a=!a:de=Ã©!
+set a=!a:ei=Ãª!
+set a=!a:nd=Ã¿!
+set a=!a:te=Ã¬!
+set a=!a:in=Ã­!
+set a=!a:ie=Ã®!
+set a=!a:ge=Ã¯!
+set a=!a:ss=Ã°!
+set a=!a:nn=Å¸!
+set a=!a:ll=Ã²!
+set a=!a:ee=Ã¹!
+set a=!a:mm=Ã´!
+set a=!a:tt=Ãµ!
+set a=!a:rr=Ã«!
+set a=!a:dd=Ã³!
+set a=!a:tt=Ãº!
+set a=!a:aa=Ã»!
+set a=!a:ich=Ã½!
+set a=!a:ein=Ã¾!
+set a=!a:und=Ã¸!
+set a=!a:der=Â¢!
+set a=!a:nde=Â¤!
+set a=!a:sch=Â²!
+set a=!a:die=Â³!
+set a=!a:den=â€º!
+set a=!a:end=â€¹!
+set a=!a:cht=Â´!
 
 
-set a=!a:a=Ô!
-set a=!a:b=Õ!
-set a=!a:c=‡!
-set a=!a:d=Ç!
-set a=!a:e=À!
-set a=!a:f=Ì!
-set a=!a:g=Æ!
-set a=!a:h=¦!
-set a=!a:i=È!
-set a=!a:j=É!
-set a=!a:k=Ò!
-set a=!a:l=Ó!
-set a=!a:m=Ğ!
-set a=!a:n=•!
+set a=!a:a=Ã”!
+set a=!a:b=Ã•!
+set a=!a:c=â€¡!
+set a=!a:d=Ã‡!
+set a=!a:e=Ã€!
+set a=!a:f=ÃŒ!
+set a=!a:g=Ã†!
+set a=!a:h=Â¦!
+set a=!a:i=Ãˆ!
+set a=!a:j=Ã‰!
+set a=!a:k=Ã’!
+set a=!a:l=Ã“!
+set a=!a:m=Ã!
+set a=!a:n=â€¢!
 set a=!a:o=$!
-set a=!a:p=Ë!
-set a=!a:q=Ñ!
-set a=!a:r=µ!
-set a=!a:s=Á!
-set a=!a:t=Î!
+set a=!a:p=Ã‹!
+set a=!a:q=Ã‘!
+set a=!a:r=Âµ!
+set a=!a:s=Ã!
+set a=!a:t=Ã!
 set a=!a:u=`!
-set a=!a:v=Ï!
-set a=!a:w=Ã!
-set a=!a:x=Í!
-set a=!a:y=Ê!
-set a=!a:z=Å!
-set a=!a:ß=Ø!
+set a=!a:v=Ã!
+set a=!a:w=Ãƒ!
+set a=!a:x=Ã!
+set a=!a:y=ÃŠ!
+set a=!a:z=Ã…!
+set a=!a:ÃŸ=Ã˜!
 
 
-set a=!a:1=Ù!
-set a=!a:2=Ú!
-set a=!a:3=Û!
-set a=!a:4=İ!
-set a=!a:5=Ş!
-set a=!a:6=à!
-set a=!a:7=á!
-set a=!a:8=â!
-set a=!a:9=ã!
-set a=!a:0=å!
+set a=!a:1=Ã™!
+set a=!a:2=Ãš!
+set a=!a:3=Ã›!
+set a=!a:4=Ã!
+set a=!a:5=Ã!
+set a=!a:6=Ã !
+set a=!a:7=Ã¡!
+set a=!a:8=Ã¢!
+set a=!a:9=Ã£!
+set a=!a:0=Ã¥!
 
 
 
@@ -516,8 +516,8 @@ echo.
 echo.
 echo.
 echo.
-echo                                  °° SCANNER v 0.1 °°
-echo                                  °° by Shadowmind °°
+echo                                  Â°Â° SCANNER v 0.1 Â°Â°
+echo                                  Â°Â° by Shadowmind Â°Â°
 echo.
 echo.
 echo.
@@ -534,20 +534,20 @@ echo.
 echo.
 echo.
 echo.
-echo                                  °° Key-Gen v 0.1 °°
-echo                                  °° by Shadowmind °°
+echo                                  Â°Â° Key-Gen v 0.1 Â°Â°
+echo                                  Â°Â° by Shadowmind Â°Â°
 echo.
 echo.
 echo.
 set /p _zahl=Symbollength:
 title Bearbeitung...
 cls
-::0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÅÃàáâãåæÆÈÉÊËèéêëÙÚÛÜùúûüÌÍÎÏìíîïÒÓÔÕÖôõòóöÑñÇçşŞŸİÿıĞµğØø
+::0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÃ€ÃÃ…ÃƒÃ Ã¡Ã¢Ã£Ã¥Ã¦Ã†ÃˆÃ‰ÃŠÃ‹Ã¨Ã©ÃªÃ«Ã™ÃšÃ›ÃœÃ¹ÃºÃ»Ã¼ÃŒÃÃÃÃ¬Ã­Ã®Ã¯Ã’Ã“Ã”Ã•Ã–Ã´ÃµÃ²Ã³Ã¶Ã‘Ã±Ã‡Ã§Ã¾ÃÅ¸ÃÃ¿Ã½ÃÂµÃ°Å¾Ã˜Ã¸
 Setlocal EnableDelayedExpansion
 Set _RNDLength=%_zahl%
-Set _Alphanumeric=£¤¥¦§¨©ª«¬®¯°±²³$€‚ƒ„…†‡‰ŠŒŸ¡¢´µ¶·¸¹º»¼½¾¿#'()*+,./:;?~!@_\%`’”•–—%%^^‘“˜™š-œabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞß
+Set _Alphanumeric=Â£Â¤Â¥Â¦Â§Â¨Â©ÂªÂ«Â¬Â®Â¯Â°Â±Â²Â³$Å¾â‚¬â€šÆ’â€â€¦â€ â€¡â€°Å Å’Å½Å¸Â¡Â¢Â´ÂµÂ¶Â·Â¸Â¹ÂºÂ»Â¼Â½Â¾Â¿#'()*+,./:;?~!@_\%`â€™â€â€¢â€“â€”%%^^â€˜â€œËœâ„¢Å¡-Å“abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÃ Ã¡Ã¢Ã£Ã¤Ã¥Ã¦Ã§Ã¨Ã©ÃªÃ«Ã¬Ã­Ã®Ã¯Ã°Ã±Ã²Ã³Ã´ÃµÃ¶Ã·Ã¸Ã¹ÃºÃ»Ã¼Ã½Ã¾Ã¿Ã€ÃÃ‚ÃƒÃ„Ã…Ã†Ã‡ÃˆÃ‰ÃŠÃ‹ÃŒÃÃÃÃÃ‘Ã’Ã“Ã”Ã•Ã–Ã—Ã˜Ã™ÃšÃ›ÃœÃÃÃŸ
 
-::Gebannte Zeichen<>={}[]|&ˆ
+::Gebannte Zeichen<>={}[]|&Ë†
 
 Set _Str=%_Alphanumeric%987654321
 :_LenLoop
@@ -636,81 +636,81 @@ set "a=%%f"
 
 echo "!a!"
 
-set "a=!a: =ñ!"
-set "a=!a:.=!"
+set "a=!a: =Ã±!"
+set "a=!a:.=Å¾!"
 
 
-set a=!a:er=æ!
-set a=!a:en=ç!
-set a=!a:ch=è!
-set a=!a:de=é!
-set a=!a:ei=ê!
-set a=!a:nd=ÿ!
-set a=!a:te=ì!
-set a=!a:in=í!
-set a=!a:ie=î!
-set a=!a:ge=ï!
-set a=!a:ss=ğ!
-set a=!a:nn=Ÿ!
-set a=!a:ll=ò!
-set a=!a:ee=ù!
-set a=!a:mm=ô!
-set a=!a:tt=õ!
-set a=!a:rr=ë!
-set a=!a:dd=ó!
-set a=!a:tt=ú!
-set a=!a:aa=û!
-set a=!a:ich=ı!
-set a=!a:ein=ş!
-set a=!a:und=ø!
-set a=!a:der=¢!
-set a=!a:nde=¤!
-set a=!a:sch=²!
-set a=!a:die=³!
-set a=!a:den=›!
-set a=!a:end=‹!
-set a=!a:cht=´!
+set a=!a:er=Ã¦!
+set a=!a:en=Ã§!
+set a=!a:ch=Ã¨!
+set a=!a:de=Ã©!
+set a=!a:ei=Ãª!
+set a=!a:nd=Ã¿!
+set a=!a:te=Ã¬!
+set a=!a:in=Ã­!
+set a=!a:ie=Ã®!
+set a=!a:ge=Ã¯!
+set a=!a:ss=Ã°!
+set a=!a:nn=Å¸!
+set a=!a:ll=Ã²!
+set a=!a:ee=Ã¹!
+set a=!a:mm=Ã´!
+set a=!a:tt=Ãµ!
+set a=!a:rr=Ã«!
+set a=!a:dd=Ã³!
+set a=!a:tt=Ãº!
+set a=!a:aa=Ã»!
+set a=!a:ich=Ã½!
+set a=!a:ein=Ã¾!
+set a=!a:und=Ã¸!
+set a=!a:der=Â¢!
+set a=!a:nde=Â¤!
+set a=!a:sch=Â²!
+set a=!a:die=Â³!
+set a=!a:den=â€º!
+set a=!a:end=â€¹!
+set a=!a:cht=Â´!
 
 
-set a=!a:a=Ô!
-set a=!a:b=Õ!
-set a=!a:c=‡!
-set a=!a:d=Ç!
-set a=!a:e=À!
-set a=!a:f=Ì!
-set a=!a:g=Æ!
-set a=!a:h=¦!
-set a=!a:i=È!
-set a=!a:j=É!
-set a=!a:k=Ò!
-set a=!a:l=Ó!
-set a=!a:m=Ğ!
-set a=!a:n=•!
+set a=!a:a=Ã”!
+set a=!a:b=Ã•!
+set a=!a:c=â€¡!
+set a=!a:d=Ã‡!
+set a=!a:e=Ã€!
+set a=!a:f=ÃŒ!
+set a=!a:g=Ã†!
+set a=!a:h=Â¦!
+set a=!a:i=Ãˆ!
+set a=!a:j=Ã‰!
+set a=!a:k=Ã’!
+set a=!a:l=Ã“!
+set a=!a:m=Ã!
+set a=!a:n=â€¢!
 set a=!a:o=$!
-set a=!a:p=Ë!
-set a=!a:q=Ñ!
-set a=!a:r=µ!
-set a=!a:s=Á!
-set a=!a:t=Î!
+set a=!a:p=Ã‹!
+set a=!a:q=Ã‘!
+set a=!a:r=Âµ!
+set a=!a:s=Ã!
+set a=!a:t=Ã!
 set a=!a:u=`!
-set a=!a:v=Ï!
-set a=!a:w=Ã!
-set a=!a:x=Í!
-set a=!a:y=Ê!
-set a=!a:z=Å!
-set a=!a:ß=Ø!
+set a=!a:v=Ã!
+set a=!a:w=Ãƒ!
+set a=!a:x=Ã!
+set a=!a:y=ÃŠ!
+set a=!a:z=Ã…!
+set a=!a:ÃŸ=Ã˜!
 
 
-set a=!a:1=Ù!
-set a=!a:2=Ú!
-set a=!a:3=Û!
-set a=!a:4=İ!
-set a=!a:5=Ş!
-set a=!a:6=à!
-set a=!a:7=á!
-set a=!a:8=â!
-set a=!a:9=ã!
-set a=!a:0=å!
+set a=!a:1=Ã™!
+set a=!a:2=Ãš!
+set a=!a:3=Ã›!
+set a=!a:4=Ã!
+set a=!a:5=Ã!
+set a=!a:6=Ã !
+set a=!a:7=Ã¡!
+set a=!a:8=Ã¢!
+set a=!a:9=Ã£!
+set a=!a:0=Ã¥!
 
 
 
